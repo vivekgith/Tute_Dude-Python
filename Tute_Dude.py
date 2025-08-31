@@ -1,0 +1,16 @@
+a=input("Enter a Number:")
+b=input("Enter a Number:")
+sum=int(a)+int(b)
+print("The sum is :",sum)
+difference=int(a)-int(b)
+print("The difference is:",difference)
+product=int(a)*int(b)
+print("The product is:",product)
+division=int(a)/int(b)
+print("The division is:",division)
+x=input("Enter your First Name:")
+y=input("Enter your Last Name:")
+print("Your full name is:",x+" "+y)
+print("Welcome to Tute Dude")
+
+
